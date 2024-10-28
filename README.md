@@ -2,8 +2,8 @@
 
 ## Fundamentals
 
-1. Search X in sorted array
-2. Lower Bound
+1. Search X in sorted array (BinarySearch.java) Done
+2. Lower Bound (LowerBound.java) Done
 3. Upper Bound
 
 ## Logic Building
