@@ -21,9 +21,9 @@
 
 12. Find square root of a number (SqrtRoot.java) Done
 13. Find Nth root of a number (NthRoot.java) Done
-14. Find the smallest divisor(SmallestDivisor) Done
-15. Koko eating bananas
-16. Minimum days to make M bouquets
+14. Find the smallest divisor(SmallestDivisor.java) Done
+15. Koko eating bananas(KokoBanana.java) Done
+16. Minimum days to make M bouquets(MBouquets.java) Done
 
 ## FAQs
 
